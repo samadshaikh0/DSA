@@ -3,6 +3,13 @@
     "files.associations": {
         "iostream": "cpp",
         "ratio": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp"
     }
 }
